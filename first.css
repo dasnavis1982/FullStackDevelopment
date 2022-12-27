@@ -1,0 +1,13 @@
+h1{
+    color: rgb(74,74,78);
+    font-size: 30px;
+    font-family: cursive;
+}
+.myownclass{
+    color: red;
+    font-size: 20px;
+}
+#mysettings{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
